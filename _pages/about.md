@@ -1,36 +1,16 @@
 ---
 permalink: /
-title: "Momina Liaqat Ali"
+title: "New Site"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+This is Momina the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
-Welcome! I'm **Momina L. Ali**, a *Ph.D. student in computational science* with a focus on developing intelligent, data-driven solutions that advance innovation in **medical imaging** and **virtual reality applications**.  
-My work lies at the intersection of computational methods and human-centered design, where I strive to tackle critical challenges in modern healthcare and education through advanced computing techniques.
+ You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-I specialize in applying immersive technologies and machine learning to explore complex research questions and create practical tools that make a difference.  
-From diagnostic imaging to virtual training environments, my portfolio highlights projects aimed at improving healthcare outcomes and enhancing user experiences in medical and educational settings.
-
-A key highlight of my work includes the development of a **virtual reality application** that enables users to interact with digital lab devices using intuitive **hand gestures**, creating more **natural and immersive experiences** for education and simulation.  
-This project reflects my broader vision — to design technologies that feel seamless, responsive, and human-centric.
-
-## Current Research Interests
-
-- **AI-enhanced diagnostic models** in medical imaging  
-- **Augmented and virtual reality systems** for interactive learning and patient engagement  
-- **Multimodal data integration** in clinical research contexts  
-
-With a strong academic foundation and hands-on experience across both research and application domains, I’m committed to **bridging the gap between theoretical work and real-world impact**.  
-I take pride in producing work that is technically sound, thoughtfully designed, and aligned with user needs in clinical, academic, and industry settings.
-
-## Beyond Research
-
-I’m deeply passionate about **collaboration**, **open science**, and **mentorship**.  
-I actively seek opportunities to work with fellow researchers, healthcare professionals, and innovators to build solutions that matter.  
-Whether it's co-authoring a paper, co-developing a prototype, or brainstorming a new interdisciplinary project — I welcome meaningful engagement. 
-
----
+A data-driven personal website
+======
+Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
