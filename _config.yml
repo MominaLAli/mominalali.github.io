@@ -30,7 +30,7 @@ author:
   location         : "Tennessee, USA"
   employer         : "Middle Tennessee State University"
   uri              : # URL
-  email            : "none@example.org" 
+  # email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
