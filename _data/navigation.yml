@@ -21,7 +21,7 @@ main:
   #   url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://medium.com/@ma2mp
     
   # - title: "CV"
   #   url: /cv/
