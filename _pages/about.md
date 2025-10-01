@@ -31,6 +31,6 @@ I take pride in producing work that is technically sound, thoughtfully designed,
 
 I’m deeply passionate about **collaboration**, **open science**, and **mentorship**.  
 I actively seek opportunities to work with fellow researchers, healthcare professionals, and innovators to build solutions that matter.  
-Whether it's co-developing a prototype, sharing knowledge, or brainstorming a new interdisciplinary project. I welcome meaningful engagement.
+Whether it's co-developing a prototype, sharing knowledge, or brainstorming a new interdisciplinary project, I welcome meaningful engagement.
 
 ---
