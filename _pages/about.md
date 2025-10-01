@@ -17,7 +17,7 @@ I focus on applying immersive technologies and machine learning to explore compl
 From diagnostic imaging to virtual training environments, my portfolio highlights projects aimed at improving healthcare outcomes and enhancing user experiences in medical and educational settings.
 
 A key highlight of my work includes the development of a **virtual reality application** that enables users to interact with digital lab devices using intuitive **hand gestures**, creating more **natural and immersive experiences** for education and simulation.  
-This reflects my broader vision — to design technologies that feel seamless, responsive, and human-centric.
+This reflects my broader vision to design technologies that feel seamless, responsive, and human-centric.
 
 ## Current Interests
 
@@ -31,6 +31,6 @@ I take pride in producing work that is technically sound, thoughtfully designed,
 
 I’m deeply passionate about **collaboration**, **open science**, and **mentorship**.  
 I actively seek opportunities to work with fellow researchers, healthcare professionals, and innovators to build solutions that matter.  
-Whether it's co-developing a prototype, sharing knowledge, or brainstorming a new interdisciplinary project — I welcome meaningful engagement.
+Whether it's co-developing a prototype, sharing knowledge, or brainstorming a new interdisciplinary project. I welcome meaningful engagement.
 
 ---
