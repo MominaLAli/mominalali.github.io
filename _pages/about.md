@@ -9,7 +9,6 @@ redirect_from:
 
 # About Me
 
-# Welcome!  
 
 I'm **Momina L. Ali**, passionate about leveraging **data science, artificial intelligence, and immersive technologies** to advance innovation in **engineering education** and **human-centered computing applications**.  
 
