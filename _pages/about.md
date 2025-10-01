@@ -23,10 +23,10 @@ A key highlight of my work includes the development of a **virtual reality appli
 
 ## Current Research Interests  
 
-- **Data-driven models in engineering education** – using AI and analytics to study learning patterns and improve teaching strategies  
-- **Immersive technologies for STEM learning** – applying AR/VR and HCI techniques to create interactive and engaging educational environments  
-- **Machine learning for decision-making** – exploring how computational approaches can support ethical, responsible, and socially relevant outcomes in engineering contexts  
-- **Multimodal data integration** – combining learning analytics, user interaction data, and computational models to inform educational design and assessment  
+- **Data-driven models in engineering education:**  using AI and analytics to study learning patterns and improve teaching strategies  
+- **Immersive technologies for STEM learning:** applying AR/VR and HCI techniques to create interactive and engaging educational environments  
+- **Machine learning for decision-making:** exploring how computational approaches can support ethical, responsible, and socially relevant outcomes in engineering contexts  
+- **Multimodal data integration:** combining learning analytics, user interaction data, and computational models to inform educational design and assessment  
 
 ---
 
