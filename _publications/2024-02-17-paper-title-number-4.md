@@ -15,7 +15,7 @@ electrical power lab along with the learning management system. To evaluate the 
 the surveys will be administered before and after the classes. The research will contribute to advancing the technologies by developing new and improved hand tracking and gesture recognition
 algorithms and integrating them into HCI applications."
 date: 2024-06-24
-venue: 'American Society for Engineering Education (ASEE) 2024'
+venue: 'American Society for Engineering Education (ASEE)'
 #paperurl: 'https://ieeexplore.ieee.org/abstract/document/9954572'
 citation: 'Ali, M.L. and Zhang, Z., 2024, June. Natural Human-Computer Interface Based on Gesture Recognition with YOLO to Enhance Virtual Lab Users’ Immersive Feeling. In Proceedings of the 2024 ASEE Annual Conference & Exposition, Portland, OR, USA (pp. 23-26).'
 ---
