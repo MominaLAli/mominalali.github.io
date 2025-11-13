@@ -9,11 +9,11 @@ redirect_from:
 
 # About Me
 
-I'm **Momina L. Ali**, passionate about leveraging **data science, artificial intelligence, and immersive technologies** to advance innovation in **medical imaging**, **healthcare training**, and **engineering education**.
+I'm Momina L. Ali, passionate about leveraging data science, deep learning, and immersive technologies to advance innovation in **medical imaging**, and **healthcare training**.
 
 My research focuses on the intersection of **computational methods**, **human-centered computing**, and **healthcare innovation**, where I design intelligent, data-driven systems that improve decision-making, enhance learning, and support clinical and educational outcomes.
 
-I specialize in applying **machine learning**, **computer vision**, and **immersive technologies (VR/AR)** to tackle complex problems in **medical imaging analysis** and **STEM education**. My portfolio includes projects ranging from **disease detection and tissue analysis using deep learning** to **virtual reality applications** that allow users to interact with lab or clinical environments through natural **hand gestures**, creating intuitive and immersive experiences.
+I specialize in applying **deep learning**, **computer vision**, and **immersive technologies (VR/AR)** to tackle complex problems in **medical imaging analysis** and **STEM education**. My portfolio includes projects ranging from **disease detection and tissue analysis using deep learning** to **virtual reality applications** that allow users to interact with lab or clinical environments through natural hand gestures, creating intuitive and immersive experiences.
 
 ---
 
